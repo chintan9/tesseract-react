@@ -7,7 +7,7 @@
     "react-dom": "16.14.0",
     "react-scripts": "4.0.1",
     "tesseract.js": "2.1.4",
-    "use-file-upload": "^1.0.9"
+    "use-file-upload": "1.0.9"
   },
   "scripts": {
     "dev": "BROWSER=none react-scripts start",
